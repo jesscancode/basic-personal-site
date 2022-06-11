@@ -16,3 +16,4 @@ in a while. So if you've ever wanted to "give back" to Scrimba, you can do that 
 Happy Coding!
 
 #Coded a Personal Website
+#Add a toggle on and off dark to light theme by the 20 June.
